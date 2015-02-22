@@ -1,5 +1,5 @@
 Simple text document
 with a few lines
-of text and a ytpo
+of text and no typos :)
 
 Done.
